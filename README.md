@@ -9,6 +9,23 @@ Integrantes:
 
 Creación de página web e intranet en Wordpress mediante los servidores de cdmon para la empresa Eléctricas Pepe S.L (https://electricaspepe.azurewebsites.net/)
 
+Acceso a la página:
+Usuario del sitio: electr895
+Contraseña del sitio: TN0dMTqC
+
+Perfil Administrador:
+Usuario: admin
+Contraseña: Pepeelectricas1
+
+Perfil Editor:
+Usuario: Ainhoa R
+Contraseña: Ainhoaelectricas1
+
+Perfil Empleado:
+Usuario: Javier M
+Contraseña: Javierelectricas1
+
+
 Plugins instalados:
   - Akismet anti-spam - Protege de spam el sitio.
   - BJ Lazy Load - Mejora la carga de imágenes y el rendimiento.
